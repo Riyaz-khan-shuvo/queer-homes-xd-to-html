@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+img{
+    height: 100%;
+    width: 100%;
+}
 
 /* header area start */
 
@@ -84,8 +88,31 @@
     margin-top: 25px;
 }
 
-
 /* statistics area ends */
+
+/* flat area Start */
+
+.flat-area{
+    margin: 25px 0;
+}
+.flat-area h5 span{
+    color: #f98506;
+}
+.flat-area button{
+    background: #017A1B;
+    color: #fff;
+    padding: 5px 9px;
+    border: none;
+    border-radius: 5px;
+}
+.flat-area a{
+    font-size:19px;
+    color: black;
+    text-decoration: underline;
+}
+
+
+/* flat area Ends */
 
 /* responsive area start */
 
