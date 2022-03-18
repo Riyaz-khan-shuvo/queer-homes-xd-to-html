@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-img{
+img {
     height: 100%;
     width: 100%;
 }
@@ -69,22 +69,22 @@ img{
 
 /* statistics area Start */
 
-.single-statistics{
+.single-statistics {
     text-align: center;
     margin: 35px 0;
 }
- .quantity {
+.quantity {
     height: 75px;
     width: 75px;
     border-radius: 50%;
-    background: #017A1B;
+    background: #017a1b;
     display: flex;
     justify-content: center;
     align-items: center;
     color: #fff;
     margin: auto;
 }
-.single-statistics p{
+.single-statistics p {
     margin-top: 25px;
 }
 
@@ -92,21 +92,21 @@ img{
 
 /* flat area Start */
 
-.flat-area{
+.flat-area {
     margin: 35px 0;
 }
-.flat-area h5 span{
+.flat-area h5 span {
     color: #f98506;
 }
-.flat-area button{
-    background: #017A1B;
+.flat-area button {
+    background: #017a1b;
     color: #fff;
     padding: 5px 9px;
     border: none;
     border-radius: 5px;
 }
-.flat-area a{
-    font-size:19px;
+.flat-area a {
+    font-size: 19px;
     color: black;
     text-decoration: underline;
 }
@@ -114,14 +114,29 @@ img{
 /* flat area Ends */
 
 /* why queer Home area start */
-.why-queer-area{
+.why-queer-area {
     margin: 35px 0;
 }
-.why-queer-area h5{
+.why-queer-area h5 {
     color: #f98506;
     margin-bottom: 35px;
 }
-
+.single-home {
+    max-width: 295px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 9px 15px;
+    border-radius: 9px;
+    margin: 25px auto;
+}
+.single-home img {
+    width: 15%;
+}
+.single-border {
+    height: 3px;
+    width: 65px;
+    background: #f98506;
+    margin-top: -21px;
+}
 
 /* why queer Home area ends */
 
@@ -142,7 +157,7 @@ img{
     .banner-area .banner-overlay {
         height: auto;
     }
-    .banner-content{
+    .banner-content {
         padding: 35px 0;
     }
 }
