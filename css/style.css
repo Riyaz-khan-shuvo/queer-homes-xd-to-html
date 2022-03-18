@@ -93,7 +93,7 @@ img{
 /* flat area Start */
 
 .flat-area{
-    margin: 25px 0;
+    margin: 35px 0;
 }
 .flat-area h5 span{
     color: #f98506;
@@ -111,8 +111,19 @@ img{
     text-decoration: underline;
 }
 
-
 /* flat area Ends */
+
+/* why queer Home area start */
+.why-queer-area{
+    margin: 35px 0;
+}
+.why-queer-area h5{
+    color: #f98506;
+    margin-bottom: 35px;
+}
+
+
+/* why queer Home area ends */
 
 /* responsive area start */
 
